@@ -10,5 +10,3 @@ def palindrome(thing):
          Reverse=thing[::-1]
          if Reverse==thing:
               print(f"the {thing} is a palindrome")
-palindrome("ahha")
-palindrome(121)

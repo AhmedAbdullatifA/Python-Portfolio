@@ -134,3 +134,4 @@ print(mat.std()) # => 7.211102550927978
 # 8=> Get the sum of all the columns in mat
 print(mat.sum(axis=0)) 
 
+

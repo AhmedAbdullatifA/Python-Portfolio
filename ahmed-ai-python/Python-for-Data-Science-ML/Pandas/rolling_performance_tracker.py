@@ -12,7 +12,7 @@ import pandas as pd
 def rolling_performance_tracker(s):
     """
     Compute rolling 3-period average then Detect anomalies 
-    where value > 2*rolling mean then Return anomaly indices.
+    where value > 2×rolling mean then Return anomaly indices.
     """
     # Checking if its Sreia or not
     if not isinstance(s,pd.Series) :
@@ -37,4 +37,5 @@ if __name__ == "__main__" :
 # output => Anomaly Indices (where value > 2× rolling mean):
 # [3, 31, 43, 48, 78, 116, 121, 191, 257, 268, 295, 306, 335, 349, 
 # 368, 376, 406, 441, 468, 483, 487, 558, 572, 579, 633, 642, 647, 663, 684, 
+
 # 702, 744, 749, 793, 796, 805, 820, 838, 894, 925, 951, 961, 984, 989]       

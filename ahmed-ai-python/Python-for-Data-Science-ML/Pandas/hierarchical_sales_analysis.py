@@ -55,7 +55,7 @@ df = pd.DataFrame(d)
 
 
 if __name__ == "__main__":
-    print(customer_purchase_summary(df))
+    print(hierarchical_sales_analysis(df))
 
 
 # output =>    
@@ -85,4 +85,5 @@ if __name__ == "__main__":
 #        Phone             8129      8129.000000            1
 #        Tablet            7373      7373.000000            1
 #        Labtop            1521      1521.000000            1
+
 

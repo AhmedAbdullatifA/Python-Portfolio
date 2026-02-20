@@ -88,7 +88,7 @@ orders = pd.DataFrame({
 
 
 if __name__ == "__main__":
-    print(customer_order_integration(customers, orders , products))
+    print(retail_data_integration_pipeline(customers, orders , products))
 
 # Output = >
 # Revenue per customer:
@@ -113,5 +113,6 @@ if __name__ == "__main__":
 # 3           4         3400.0
 # 6           7         2200.0
 # 1           2         1500.0
+
 
 

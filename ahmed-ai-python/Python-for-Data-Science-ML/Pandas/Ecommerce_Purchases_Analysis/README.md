@@ -36,7 +36,7 @@ Exploratory Data Analysis (EDA) project on an Ecommerce Purchases dataset using 
 
 ## 🚀 Project Files
 - `Ecommerce_Purchases_Analysis.py`
-- `EcommercePurchases.csv`
+- `EcommercePurchases`
 
 ## 👤 Author
 Ahmed Abdullatif

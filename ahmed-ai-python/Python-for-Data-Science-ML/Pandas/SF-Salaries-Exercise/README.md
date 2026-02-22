@@ -25,4 +25,4 @@ Exploratory Data Analysis (EDA) project using the San Francisco Salaries dataset
 - Is there a correlation between job title length and salary?
 
 ## 🚀 Author
-Ahmed AbdelLatif
+Ahmed Abdullatif
